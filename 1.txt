@@ -1,0 +1,21 @@
+int abcd = 1233 ;
+if ( a == 2 ) ;
+else {
+]
+if ( me == me ) {
+int c ;
+}
+)
+for ( int i = 0 ; i != 1 ; i = i + 1 ) {
+}
+float partner = soheil + changizi ;
+if ( me > you ) {
+char hamed ;
+}
+if ( hamed == khashechi || danial == akbarpour ) {
+}
+()
+int int = a % b % c * 2 ;
+int if = a % b % c * 2 ;
+int in = a % b % c * 2 ;
+// end
