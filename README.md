@@ -16,6 +16,13 @@ But it's good to say that it says the location of error, I mean in which line
 
 > For more information about the codes, revert to the codes and read the comments! 
 
+This project has been built with `net beans` IDE.
+
+So if you want, you can easily clone this repository and import it on net beans.
+
+***Note that***
+The main file is under *src* directory, named: `JavaParser.java`
+
 <hr />
 
 ## Authors
